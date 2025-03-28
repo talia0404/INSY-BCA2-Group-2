@@ -11,16 +11,3 @@ The purpose of the **INSY6112** module 🧠 is to equip you with both the theore
 - Work with NoSQL technologies such as MongoDB to manage unstructured data 📂
 
 It builds a solid foundation in data management that's critical for business, tech, and data science roles!
-
-
-## 20 March
-
-Use SSMS.
-
-Create a new Query.
-
-Create a new database.
-
-Use the Activity 2 ERD to create tables in a database.
-
-Add at least 1 value in each table.
