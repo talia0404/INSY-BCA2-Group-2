@@ -4,6 +4,7 @@ A **stored procedure** is a saved block of SQL code in the database that can be 
 Think of it as a **function in programming** but for SQL operations.
 
 👉 It can contain **SQL statements**, **control flow logic (IF, LOOP)**, and **parameters**.
+
 👉 It is stored once and reused many times.
 
 ---
