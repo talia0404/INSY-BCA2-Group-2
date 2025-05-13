@@ -1,4 +1,4 @@
-# 🌟 ** The Pixel Café Management System**
+# 🌟 **The Pixel Café Management System**
 
 Welcome to **The Pixel Café**, the coolest tech-themed coffee shop in town. Customers love the quirky drink names, snack combinations, and the friendly staff.
 You’ve been hired as the database manager to help organize operations using SQL.
